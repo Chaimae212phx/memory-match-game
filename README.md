@@ -17,7 +17,9 @@ The layout adjusts to your screen — you can play it on your phone or tablet ea
 - JavaScript (no libraries)
 
 ## 📂 File Structure
-
+📁 memory-match-game/
+├── index.html # Main game code
+└── README.md # Project info
 
 ## ✨ Features
 - Fully responsive layout
